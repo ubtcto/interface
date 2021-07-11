@@ -766,7 +766,7 @@ function addToWallet() {
                     'address': '0x33e9279b9b19b01f0ebe925bd5bc8b1c56f6d288',
                     'symbol': 'UBTC',
                     'decimals': '18',
-                    'image': 'https://ubtc.to/images/logo.png',
+                    'image': 'https://ubtc.to/images/logo.png',
                 },
             },
             id: Math.round(Math.random() * 100000)
